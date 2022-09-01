@@ -1,6 +1,6 @@
 {
     "name": "lu/t1",
-    "description": "test1",
+    "description": "te1",
     "require": {
         "php": ">=5.4"
     },
