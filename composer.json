@@ -1,0 +1,22 @@
+{
+    "name": "lu/t1",
+    "description": "test1",
+    "require": {
+        "php": "5.4"
+    },
+    "require-dev": {
+        "php": "7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lu\\T1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lu",
+            "email": "1024415103@qq.com"
+        }
+    ]
+}
